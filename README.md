@@ -1,1 +1,1 @@
-# Stealth2
+Stealth2
